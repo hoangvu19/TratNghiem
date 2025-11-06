@@ -1,0 +1,1874 @@
+[
+  {
+    "id": 1,
+    "question": "(2 points) What is the primary concern of software architecture?",
+    "type": "mcq",
+    "choices": [
+      "Ensuring the system works as expected",
+      "Handling long-term design and quality attributes",
+      "Meeting coding standards",
+      "Handling user interface design"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "question": "(2 points) Which of the following is NOT an architectural structure category?",
+    "type": "mcq",
+    "choices": [
+      "UI structures",
+      "Module structures",
+      "Allocation structures",
+      "Component-and-connector structures"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "question": "(2 points) What is the main purpose of a software architecture?",
+    "type": "mcq",
+    "choices": [
+      "Implementing algorithms",
+      "Reasoning about the system’s structures and qualities",
+      "Testing system functionality",
+      "Building user interfaces"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "question": "(2 points) What is a module structure?",
+    "type": "mcq",
+    "choices": [
+      "A runtime structure",
+      "A static structure for organizing system functionality",
+      "A view for system execution",
+      "An interaction model"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "question": "(2 points) What is a runtime structure in software architecture called?",
+    "type": "mcq",
+    "choices": [
+      "Module structure",
+      "Data flow",
+      "Component-and-connector (C&C) structure",
+      "Allocation structure"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6,
+    "question": "(2 points) What is the definition of software architecture according to the book?",
+    "type": "mcq",
+    "choices": [
+      "A design methodology",
+      "A set of structures needed to reason about a system",
+      "A programming framework",
+      "A system prototype"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "question": "(2 points) What is the role of software elements in architecture?",
+    "type": "mcq",
+    "choices": [
+      "They define system processes",
+      "They represent the system’s behavior and properties",
+      "They store system data",
+      "They define business logic"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "question": "(2 points) Which structure helps in analyzing system performance?",
+    "type": "mcq",
+    "choices": [
+      "Component-and-connector (C&C) structure",
+      "Module structure",
+      "Allocation structure",
+      "Class structure"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "question": "(2 points) What architectural structure relates to system deployment?",
+    "type": "mcq",
+    "choices": [
+      "Allocation structure",
+      "Component-and-connector structure",
+      "Module structure",
+      "Data model"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "question": "(2 points) What are connectors in software architecture?",
+    "type": "mcq",
+    "choices": [
+      "Data storage units",
+      "Interaction links between components",
+      "System modules",
+      "Hardware drivers"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 11,
+    "question": "(2 points) What is a system architecture concerned with?",
+    "type": "mcq",
+    "choices": [
+      "Just software design",
+      "A combination of hardware and software components",
+      "Only the user interface",
+      "Network protocols"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "question": "(2 points) Which type of architecture concerns business processes and organizational goals?",
+    "type": "mcq",
+    "choices": [
+      "System architecture",
+      "Enterprise architecture",
+      "Software architecture",
+      "Data architecture"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 13,
+    "question": "(2 points) Which structure provides insight into a system’s concurrency?",
+    "type": "mcq",
+    "choices": [
+      "Module structure",
+      "Component-and-connector structure",
+      "Allocation structure",
+      "Layered structure"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "question": "(2 points) What is a “layer” in a layered structure?",
+    "type": "mcq",
+    "choices": [
+      "A database unit",
+      "A virtual machine providing a set of services",
+      "A module of a system",
+      "A network protocol"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "(2 points) Which of these patterns is commonly used in component-and-connector structures?",
+    "type": "mcq",
+    "choices": [
+      "Client-side scripting",
+      "Client-server pattern",
+      "Data mining",
+      "Object pooling"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "question": "(2 points) What is an example of a dynamic system structure?",
+    "type": "mcq",
+    "choices": [
+      "Class diagrams",
+      "Service interactions",
+      "File directories",
+      "Database schemas"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 17,
+    "question": "(2 points) In which scenario is a component-and-connector structure NOT useful?",
+    "type": "mcq",
+    "choices": [
+      "Defining system services",
+      "Defining code ownership in teams",
+      "Analyzing performance",
+      "Analyzing system availability"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 18,
+    "question": "(2 points) What defines the relationship between software and hardware elements?",
+    "type": "mcq",
+    "choices": [
+      "Module view",
+      "Class structure",
+      "Allocation structure",
+      "Business rules"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 19,
+    "question": "(2 points) What is the key output of object-oriented analysis and design in architecture?",
+    "type": "mcq",
+    "choices": [
+      "Data model",
+      "Class diagrams",
+      "Service components",
+      "Deployment model"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "question": "(2 points) What is the role of allocation structures in architecture?",
+    "type": "mcq",
+    "choices": [
+      "Defining component interactions",
+      "Mapping software elements to external environments",
+      "Organizing database structures",
+      "Describing user interface elements"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "question": "(2 points) Which structure helps in reasoning about system modifiability?",
+    "type": "mcq",
+    "choices": [
+      "Data model",
+      "Concurrency structure",
+      "Module structure",
+      "Deployment structure"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 22,
+    "question": "(2 points) What is an architectural pattern?",
+    "type": "mcq",
+    "choices": [
+      "A programming language feature",
+      "A solution for recurring design problems",
+      "A specific software tool",
+      "A testing methodology"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 23,
+    "question": "(2 points) Which pattern describes interoperation between independent services?",
+    "type": "mcq",
+    "choices": [
+      "Layered pattern",
+      "Shared-data pattern",
+      "Allocation pattern",
+      "Client-server pattern"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 24,
+    "question": "(2 points) What aspect is NOT part of a software architecture?",
+    "type": "mcq",
+    "choices": [
+      "Behavior of components",
+      "Relationships between components",
+      "Physical layout of the office",
+      "Properties of system elements"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 25,
+    "question": "(2 points) What is the purpose of a deployment structure?",
+    "type": "mcq",
+    "choices": [
+      "To define modules",
+      "To map software components to hardware systems",
+      "To store logs",
+      "To handle system workflows"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 26,
+    "question": "(2 points) How does architecture influence a system’s development?",
+    "type": "mcq",
+    "choices": [
+      "By selecting coding standards",
+      "By defining major design decisions that impact the whole system",
+      "By determining file structure",
+      "By setting system memory limits"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 27,
+    "question": "(2 points) What makes a view different from a structure?",
+    "type": "mcq",
+    "choices": [
+      "Views are static",
+      "Views represent structures as seen by stakeholders",
+      "Structures are abstract",
+      "Views are only used in implementation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 28,
+    "question": "(2 points) What is the architecture business cycle?",
+    "type": "mcq",
+    "choices": [
+      "The influence between architecture and the organization that developed it",
+      "The process of code optimization",
+      "The lifecycle of a software product",
+      "The organization’s marketing strategy"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 29,
+    "question": "(2 points) What does a “skeletal system” mean in architecture?",
+    "type": "mcq",
+    "choices": [
+      "A system without data",
+      "A minimal system that exercises major communication paths",
+      "A system that is incomplete",
+      "A prototype system"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 30,
+    "question": "(2 points) What is the role of architecture documentation?",
+    "type": "mcq",
+    "choices": [
+      "To capture code syntax",
+      "To describe the system’s structure and behavior for stakeholders",
+      "To store system logs",
+      "To define UI layouts"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 31,
+    "question": "(2 points) Which architectural structure is important for assigning responsibilities to development teams?",
+    "type": "mcq",
+    "choices": [
+      "Work assignment structure",
+      "Module structure",
+      "Deployment structure",
+      "Component-and-connector structure"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 32,
+    "question": "(2 points) What does a “good” architecture achieve?",
+    "type": "mcq",
+    "choices": [
+      "High system costs",
+      "Alignment with business goals and quality attributes",
+      "Large team sizes",
+      "Complex system designs"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 33,
+    "question": "(2 points) Which architectural pattern enforces strict use of layers?",
+    "type": "mcq",
+    "choices": [
+      "Layered pattern",
+      "Service-oriented pattern",
+      "Client-server pattern",
+      "Repository pattern"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 34,
+    "question": "(2 points) What is a common quality attribute influenced by architecture?",
+    "type": "mcq",
+    "choices": [
+      "Budget",
+      "Modifiability",
+      "Code formatting",
+      "User experience"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 35,
+    "question": "(2 points) Which term refers to communication pathways between runtime components?",
+    "type": "mcq",
+    "choices": [
+      "Modules",
+      "Connectors",
+      "Threads",
+      "Data models"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 36,
+    "question": "(2 points) Why is it important to reason about an architecture early in the development process?",
+    "type": "mcq",
+    "choices": [
+      "To implement user feedback",
+      "To predict system quality attributes",
+      "To develop a prototype",
+      "To select coding languages"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 37,
+    "question": "(2 points) Which attribute is critical for systems that must operate even when faults occur?",
+    "type": "mcq",
+    "choices": [
+      "Usability",
+      "Availability",
+      "Scalability",
+      "Modifiability"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 38,
+    "question": "(2 points) What is a key property of well-defined architectural modules?",
+    "type": "mcq",
+    "choices": [
+      "They hide internal complexity and promote separation of concerns",
+      "They include all system details",
+      "They interact with external systems directly",
+      "They contain user interface components"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 39,
+    "question": "(2 points) In which scenario is architecture NOT critical?",
+    "type": "mcq",
+    "choices": [
+      "Designing a distributed system",
+      "Managing system performance",
+      "Creating a basic script or utility tool",
+      "Implementing quality attributes"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 40,
+    "question": "(2 points) What is the significance of architectural patterns in system design?",
+    "type": "mcq",
+    "choices": [
+      "They provide reusable solutions to common problems",
+      "They define system-specific requirements",
+      "They organize code",
+      "They ensure modularity"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 41,
+    "question": "(2 points) Which structure ensures that changes to the system do not affect unrelated components?",
+    "type": "mcq",
+    "choices": [
+      "Deployment structure",
+      "Module structure",
+      "Concurrency structure",
+      "File system structure"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "question": "(2 points) How does a client-server pattern work?",
+    "type": "mcq",
+    "choices": [
+      "The client manages data while the server processes requests",
+      "Clients request services from servers which provide responses",
+      "Clients and servers execute on the same machine",
+      "Data is stored on the client side"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 43,
+    "question": "(2 points) What architectural documentation is used to communicate with stakeholders?",
+    "type": "mcq",
+    "choices": [
+      "Views",
+      "Code diagrams",
+      "Performance tests",
+      "Security protocols"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 44,
+    "question": "(2 points) Which structure addresses how data is transmitted between components?",
+    "type": "mcq",
+    "choices": [
+      "Concurrency structure",
+      "Module structure",
+      "Deployment structure",
+      "Class structure"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 45,
+    "question": "(2 points) What is a scenario in architecture evaluation?",
+    "type": "mcq",
+    "choices": [
+      "A system error",
+      "A use case to test quality attributes in the architecture",
+      "A code deployment method",
+      "A debugging process"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 46,
+    "question": "(2 points) Which quality attribute is often prioritized in mission-critical systems?",
+    "type": "mcq",
+    "choices": [
+      "Usability",
+      "Scalability",
+      "Reliability",
+      "Modifiability"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 47,
+    "question": "(2 points) What does the term \"scalability\" refer to in software architecture?",
+    "type": "mcq",
+    "choices": [
+      "The system's ability to handle growth in demand or size",
+      "The system's ability to operate at maximum performance",
+      "The ease of system maintenance",
+      "The use of object-oriented patterns"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 48,
+    "question": "(2 points) What does the term \"modifiability\" refer to in architecture?",
+    "type": "mcq",
+    "choices": [
+      "The ease with which the system can be changed or updated",
+      "The system's performance under stress",
+      "The user interface design",
+      "The type of hardware used"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 49,
+    "question": "(2 points) Which structure helps organize how system modules interact at runtime?",
+    "type": "mcq",
+    "choices": [
+      "Deployment structure",
+      "Component-and-connector structure",
+      "Module structure",
+      "Data structure"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50,
+    "question": "(2 points) What is the purpose of an architectural evaluation?",
+    "type": "mcq",
+    "choices": [
+      "To analyze the system's user interface",
+      "To assess if the architecture can meet quality attribute goals",
+      "To create code templates",
+      "To prepare for system deployment"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 51,
+    "question": "(2 points) How is system reliability achieved through architecture?",
+    "type": "mcq",
+    "choices": [
+      "Using modern programming languages",
+      "Through redundancy and fault-tolerant designs",
+      "By using cloud infrastructure",
+      "By following Agile principles"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 52,
+    "question": "(2 points) What is the primary focus of enterprise architecture?",
+    "type": "mcq",
+    "choices": [
+      "System component interaction",
+      "Aligning software systems with business goals and processes",
+      "Building user interfaces",
+      "Optimizing network traffic"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 53,
+    "question": "(2 points) How does software architecture support incremental development?",
+    "type": "mcq",
+    "choices": [
+      "By prioritizing Agile methods",
+      "Through designing systems to be built and tested in parts",
+      "By focusing on hardware resources",
+      "By using AI for automation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 54,
+    "question": "(2 points) What is a non-local change in architecture?",
+    "type": "mcq",
+    "choices": [
+      "A change to system documentation",
+      "A change that affects multiple elements but does not alter the architecture itself",
+      "A minor update in a single module",
+      "A complete redesign of the system"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 55,
+    "question": "(2 points) Which structure maps software components to the underlying hardware?",
+    "type": "mcq",
+    "choices": [
+      "Component structure",
+      "Deployment structure",
+      "Data structure",
+      "Service structure"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 56,
+    "question": "(2 points) What is the main advantage of using well-documented architecture?",
+    "type": "mcq",
+    "choices": [
+      "It shortens the development cycle",
+      "It enhances communication between stakeholders and ensures design consistency",
+      "It improves system runtime performance",
+      "It prevents all system errors"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 57,
+    "question": "(2 points) Which quality attribute focuses on how well a system performs under load?",
+    "type": "mcq",
+    "choices": [
+      "Performance",
+      "Modifiability",
+      "Usability",
+      "Maintainability"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 58,
+    "question": "(2 points) Which quality attribute ensures that a system can continue to operate in the event of partial failure?",
+    "type": "mcq",
+    "choices": [
+      "Scalability",
+      "Fault tolerance",
+      "Usability",
+      "Performance"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 59,
+    "question": "(2 points) What kind of structure is a class diagram?",
+    "type": "mcq",
+    "choices": [
+      "Component structure",
+      "Module structure",
+      "Allocation structure",
+      "Deployment structure"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 60,
+    "question": "(2 points) What role does a system architect play in an organization? SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "Writing code for the system",
+      "Designing the system's structure to meet business and technical goals",
+      "Testing the system's performance",
+      "Managing the organization's network traffic"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 61,
+    "question": "(0.200 point) The term 'enterprise architecture' describes ...",
+    "type": "mcq",
+    "choices": [
+      "software elements of a system.",
+      "hardware elements and how they are interconnected.",
+      "business structuresandhowtheyareinterconnected.",
+      "both the hardware and software elements of a system."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 62,
+    "question": "(0.200 point) Enterprise and system architecture... adhere. E. none of the above",
+    "type": "mcq",
+    "choices": [
+      "provideanenvironment inwhichsoftwareoperates.",
+      "provide requirements and constraints to which software architecture must",
+      "arelikelytobeassociatedwithoneormoresoftware architectures.",
+      "all of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 63,
+    "question": "(0.200 point) Which of the following is a concern of software architecture? E. None of the above SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "Software elements of the system",
+      "Human elements of the system",
+      "Hardware elements of the system",
+      "All of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 64,
+    "question": "(0.200 point) Software architecture is an abstraction of a system that...",
+    "type": "mcq",
+    "choices": [
+      "suppresses details of what software elements do internally.",
+      "shows how software elements will be implemented.",
+      "describes the algorithms and data structures used by software elements.",
+      "identifiesthepublicandprivateinterfacesofsoftwareelements."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 65,
+    "question": "(0.200 point) The 'externally visible properties' of a software architecture's elements refers to all of the following except...",
+    "type": "mcq",
+    "choices": [
+      "quality attributes of those elements.",
+      "\"as is\" design of those elements.",
+      "functionsandservicesprovidedbythoseelements.",
+      "resourcesprovided and usedby thoseelements."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 66,
+    "question": "(0.200 point) Which of the following is not true concerning software architecture? relationships. SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "An architecture comprises many different structures.",
+      "Anarchitectureisbestdescribedbyasingle,coherent structure.",
+      "An architectural structure might show runtime elements and relationships.",
+      "An architectural structure might show non-runtime elements and"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 67,
+    "question": "(0.200 point) Which of the following is true concerning software architecture? interfaces.",
+    "type": "mcq",
+    "choices": [
+      "Architecture is concerned primarily with the private details of element",
+      "Anarchitectureiscomposedofafixedsetofcandidate structures.",
+      "Every system has an architecture, explicit or implicit.",
+      "Asoftwarearchitectureistheplannedimplementationofa system."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 68,
+    "question": "(0.200 point) Which of the following cannot be inferred from the description of a software architecture's elements?",
+    "type": "mcq",
+    "choices": [
+      "How many elements a system has",
+      "The design of individual elements",
+      "Commonalities between system elements",
+      "Relationships between system elements"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 69,
+    "question": "(0.200 point) Which of the following is not true of architectural patterns? SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "They are often selected to promote various quality attribute properties.",
+      "Theyare well-knownsolutionstorecurringdesignproblems.",
+      "They are industry-defined standards for software design.",
+      "They are often selected in the early stages of architectural design."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 70,
+    "question": "(0.200 point) Which of the following would not be part of a reference model?",
+    "type": "mcq",
+    "choices": [
+      "Whatmajorfunctionsasystemisexpectedtoperform",
+      "Howsystemfunctionsareallocatedtosoftwareelements",
+      "What data flows to,from, and between system functions",
+      "Which functions are mandatory and which are optional"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 71,
+    "question": "(0.200 point) Which of the following would not be part of a reference architecture? implementation of the architecture",
+    "type": "mcq",
+    "choices": [
+      "Elements of the architecture and their externally visible properties",
+      "Relationships between elements and the properties of those elements",
+      "Which elements, relationships, and properties are optional in any given",
+      "How to instantiate the architecture for a particular application"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 72,
+    "question": "(0.200 point) There are three primary reasons why a software architecture is important. Which of the following is not one of them? SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "It reveals early design decisions about a system.",
+      "It enables communication among stakeholders regarding the system.",
+      "It ensures implementation conformance to a defined specification.",
+      "It is a transferable, reusable abstraction of a system."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 73,
+    "question": "(0.200 point) Softwarearchitectureprovidesacommonframeof referenceforallof the following except... resources.",
+    "type": "mcq",
+    "choices": [
+      "negotiating requirements with stakeholders.",
+      "keeping the customer informed of progress and cost.",
+      "minimizingtheamountof timespentincomponentdesign.",
+      "decidinghow tostructurethedevelopmentorganization and allocate"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 74,
+    "question": "(0.200 point) Which of the following is least likely to be imposed on the implementation by software architecture?",
+    "type": "mcq",
+    "choices": [
+      "Test procedures",
+      "Process-scheduling priorities",
+      "Elements and interactions",
+      "Data sharing"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 75,
+    "question": "(0.200 point) Which of the following processes within a development organization is not affected by software architecture? SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "Budgeting and scheduling",
+      "Partitioning and assigning work",
+      "Performing user testing",
+      "Planning testing and deployment"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 76,
+    "question": "(0.200 point) Software architecture allows us to predict...",
+    "type": "mcq",
+    "choices": [
+      "howmuchthesystemwillimpact thetechnologicalenvironment.",
+      "how well quality attributes will be achieved.",
+      "how satisfied customers will be with the product.",
+      "how often requirements will change."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 77,
+    "question": "(0.200 point) Architecture helps us to reason about and manage change, because it partitions all changes into these three classes of change:",
+    "type": "mcq",
+    "choices": [
+      "requirements, design, and implementation changes.",
+      "local, nonlocal, and architectural changes.",
+      "high-level design, detailed design, and coding changes.",
+      "life-cycle, process, and practice changes."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 78,
+    "question": "(0.200 point) Onceanarchitecture hasbeendefined,itcan beanalyzedandprototypedasa skeletal system. Which of the following is not a benefit of this approach? identified. SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "Elementscanbepluggedintoaskeletalframeworkof the architecture.",
+      "Risky elements can be identified and prototyped.",
+      "Thesystemisexecutableearlyintheproduct'slifecycle.",
+      "Development can proceed before the architectural mismatches have been"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 79,
+    "question": "(0.200 point) Which of the following is false regarding software architecture? conformance estimates.",
+    "type": "mcq",
+    "choices": [
+      "Software architecture enables more accurate cost and schedule estimates.",
+      "Software architecture enables more accurate project planning and tracking.",
+      "Software architecture enables more accurate process",
+      "Software architecture enables more accurate predictions of resource usage."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 80,
+    "question": "(0.200 point) Software architecture can serve as the basis of a strategic reuse agenda that includes reuse of all of the following except...",
+    "type": "mcq",
+    "choices": [
+      "product-specific functionality and qualities.",
+      "work breakdown structures and requirements.",
+      "project personnel and experience.",
+      "components andstandards."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 81,
+    "question": "(0.200 point) Architecture-based development... incorporated into the system. SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "focuses on composing elements rather than programming them.",
+      "relaxes constraints on which third-party products can be",
+      "avoids implementation standards to promote flexibility.",
+      "inhibits component interchangeability."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 82,
+    "question": "(0.200 point) Architecture enables template-based development. Which of the following isnot true of this type of development?",
+    "type": "mcq",
+    "choices": [
+      "Templates can be used to localize how elements interact.",
+      "Templatescanbeusedtocodeelement interactionframeworks.",
+      "Templates speed up development and increase reliability.",
+      "Templates promote standardization but reduce performance."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 83,
+    "question": "(0.200 point) Which of the following structures is most likely to be of interest in determining how modifiable software is in termsof supportinga new hardware platform?",
+    "type": "mcq",
+    "choices": [
+      "Uses structure",
+      "Shared-datarepositorystructure",
+      "Implementation structure",
+      "Work assignment structure"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 84,
+    "question": "(0.200 point) Which of the following structures is most likely to be of interest in determining how secure a system is from unauthorized external access? SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "Implementation structure",
+      "Deployment structure",
+      "Class/generalization structure",
+      "Decomposition structure"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 85,
+    "question": "(0.200 point) Which of the following structures is most likely to be of interest in determining how well a system will perform when faced by simultaneous access by1,000 users?",
+    "type": "mcq",
+    "choices": [
+      "Layered structure",
+      "Process structure",
+      "Work assignment structure",
+      "Implementation structure"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 86,
+    "question": "(0.200 point) Architects primarily focus on designing whatever structures will provide them with the most leverage in achieving... E. none of the above",
+    "type": "mcq",
+    "choices": [
+      "the functional requirements of the system.",
+      "the operational requirements of the system.",
+      "thequalityattributesrequirementsof thesystem.",
+      "all of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 87,
+    "question": "(0.200 point) The Architecture Business Cycle best refers to... E. none of the above SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "the business, social, and technical influences on an architecture.",
+      "the influence of architecture on cost, schedule, and resource allocation.",
+      "the cyclic nature of architecture-centric development.",
+      "the ideal lifecycle modelfor architecture-based development."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 88,
+    "question": "(0.200 point) Which of these factors is least likely to influence the design of a software architecture?",
+    "type": "mcq",
+    "choices": [
+      "The architect's background and experience",
+      "Thetechnicalenvironment inwhichthesystemisdeveloped",
+      "The way in which the architecture is represented",
+      "The structure of the development organization"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 89,
+    "question": "(0.200 point) Why should software architects involve stakeholders early in the life cycle of a system?",
+    "type": "mcq",
+    "choices": [
+      "Toinformstakeholdersof thesystem'spriorities",
+      "To limit the real constraints of a system",
+      "To manage stakeholder expectations",
+      "To discuss design alternatives"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 90,
+    "question": "(0.200 point) Which of thefollowing might bean organizational influence on software architectures? E. None of the above SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "Available expertise",
+      "Organizational structure",
+      "Investment in existing assets",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 91,
+    "question": "(0.200 point) The existing technical environment will...",
+    "type": "mcq",
+    "choices": [
+      "be the most influential cost driver of the system.",
+      "bea key factor in minimizing the constraints imposed on a system.",
+      "likely influence the design of an architecture.",
+      "have the least impact on the cost of the system."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 92,
+    "question": "(0.200 point) Thedesignchoicesmadebyasoftwarearchitectmightbeinfluencedbyhisor her... E. none of the above",
+    "type": "mcq",
+    "choices": [
+      "past experience in designing service-oriented architectures.",
+      "personal goals and objectives.",
+      "education and training.",
+      "all of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 93,
+    "question": "(0.200 point) The design of an architecture is least likely to influence... SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "the formation of development teams.",
+      "development, test, and integration activities.",
+      "conformancetoproject trackingandreportingpractices.",
+      "resource allocation in schedules and budgets."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 94,
+    "question": "(0.200 point) Software architecture does not offer which of the following benefits? specification",
+    "type": "mcq",
+    "choices": [
+      "Allowing the company to enter a specific market segment",
+      "Guaranteeing that implementations will conform to the architecture",
+      "Providing a basis for resource allocation and budgeting",
+      "Enablingefficientproductionand deploymentof similar systems"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 95,
+    "question": "(0.200 point) Occasionally, a system or architecture will introduce itself into the technical environment inawaythatwillimpact thearchitecturaldesignofmanysystemsfor theforeseeable future. Allof thefollowing areexamplesof this except for:",
+    "type": "mcq",
+    "choices": [
+      "The World Wide Web",
+      "C++",
+      "Service-oriented architecture",
+      "Windows operating system"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 96,
+    "question": "(0.200 point) Understanding the influences described by the Architecture Business Cycle helps the architect todomany things.Whichof thefollowing isnotoneof them? architectural design SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "Realizethatsystemrequirementsarenot theonlyinfluenceon",
+      "Determinewhenandhowtheseinfluenceswilloccurduringthe life cycle",
+      "Activelylookforandassesstheimpactofsuchinfluencesonthe architecture",
+      "Prepareforandmanagetheseinfluencesthroughout thelife cycle"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 97,
+    "question": "(0.200 point) Which of the following architectural influences can affect customer requirements? kinds of architectures for their systems. systems and components. E. None of the above",
+    "type": "mcq",
+    "choices": [
+      "Customers perceive the benefit of existing architectures and want similar",
+      "Customers will alter their requirements based on the availability of existing",
+      "Customersaskfor featuresthatareavailableonexistingsystems.",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 98,
+    "question": "(0.200 point) Which of the following offers the best example of a non-operational description of a quality attribute requirement? six months.\" factor of 20.\" use.\" records.\" SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "Modifiability: \"Developers mustbe able to port the software to a Mac within",
+      "Performance: \"The software must outperform competing software by a",
+      "Usability: \"The system shall be easy for operations personnel to learn and",
+      "Security: \"The system shall prevent all unauthorized access to top-secret"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 99,
+    "question": "(0.200 point) Which of the following best describes \"quality attributes?\" by stakeholders achieve the desired functionality marketability usedasabasisfordeterminingwhetherasystemis \"fit for purpose\"",
+    "type": "mcq",
+    "choices": [
+      "Propertiesof workproductsorgoodsby whichtheir qualitywill be judged",
+      "Properties of software systems that drive how systems will be partitioned to",
+      "Propertiesof workproductsorgoodsthatdeterminetheir",
+      "Properties of software systems that are well defined by industry standardsand"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 100,
+    "question": "(0.200 point) Quality attributes requirements are derived from...",
+    "type": "mcq",
+    "choices": [
+      "stakeholderconcerns.",
+      "industry standards.",
+      "functional requirements.",
+      "architectural structure."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 101,
+    "question": "(0.200 point) Which of the following is not true concerning quality attributes? andguaranteesthat thosequalitieswillbemetinthefinal implementation of the system. negative impact on other quality attributes. SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "Quality attributes have a significant influence on the architecture of a system.",
+      "Architectural decisions are often made to promote various quality attributes.",
+      "Architectureprovidesthefoundationforachievingquality attributes",
+      "Changesinanarchitecturetopromoteonequalityattributemay have a"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 102,
+    "question": "(0.200 point) Which of the following is not true concerning the functional requirements of a system? requirements. requirements. system.",
+    "type": "mcq",
+    "choices": [
+      "We can achieve functional requirements using any architecture.",
+      "Functional requirements often have associated quality attribute",
+      "We can achieve functional requirements yet fail to meet quality attribute",
+      "Functional requirements have a significant influence on the architecture of a"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 103,
+    "question": "(0.200 point) Failingtounderstandthequalityattributerequirementsforasystemisoftenthe result of... requirements. requirements.",
+    "type": "mcq",
+    "choices": [
+      "ignoring industry-standard definitions for those requirements.",
+      "wide variation in the vocabulary used to describe those requirements.",
+      "a lack of tool support for recording and tracking those",
+      "followingalife-cyclemodel thatdoesnotaccommodatethose"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 104,
+    "question": "(0.200 point) A \"quality attribute scenario\"is... SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "the relationship between different qualities of a system.",
+      "alistofallqualityattributesrelevanttosomepartofasystem.",
+      "a shortdescription ofhowa user willinteract with some partofa system.",
+      "a short description of how a system should respond to some stimulus."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 105,
+    "question": "(0.200 point) Which of the following is not part of a quality attribute scenario?",
+    "type": "mcq",
+    "choices": [
+      "Environment",
+      "Response measure",
+      "Evaluation",
+      "Stimulus source"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 106,
+    "question": "(0.200 point) The main purpose of developing quality attribute scenarios is to...",
+    "type": "mcq",
+    "choices": [
+      "better understand quality attributes requirements.",
+      "select architectural patterns.",
+      "unveil conflicting stakeholder requirements.",
+      "select architectural tactics."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 107,
+    "question": "(0.200 point) Which of the following statements is true? SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "A general scenario is an instantiation of a concrete scenario.",
+      "A concrete scenario is an instantiation of a general scenario.",
+      "Concrete scenarios are system independent.",
+      "Generalscenariosareformedbycombiningconcretescenarios."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 108,
+    "question": "(0.200 point) Which of the following statements is not true? about quality attribute requirements.",
+    "type": "mcq",
+    "choices": [
+      "General scenarios can help stakeholders communicate more effectively",
+      "General scenarios are system-specific but domain-independent scenarios.",
+      "General scenarios can help stakeholders develop concrete scenarios.",
+      "General scenarios can be developed for any quality attribute."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 109,
+    "question": "(0.200 point) The Quality Attribute Workshop (QAW) engages stakeholders to...",
+    "type": "mcq",
+    "choices": [
+      "evaluate the design of a system.",
+      "discover thequalityattributerequirementsforasystem.",
+      "determine whether a system is \"fit for purpose\".",
+      "propose and select system design alternatives."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 110,
+    "question": "(0.200 point) The Quality Attribute Workshop (QAW) is best used... SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "before architectural design.",
+      "during architectural design.",
+      "after architectural design but before non-architectural design.",
+      "during non-architectural design."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 111,
+    "question": "(0.200 point) Which of the following results from the Quality Attribute Workshop (QAW)?",
+    "type": "mcq",
+    "choices": [
+      "Improved allocation of project resources",
+      "Consensusonthenon-architecturaldesignforasystem",
+      "Reducedandbettercontrolover stakeholdercommunication",
+      "Increased stakeholder communication"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 112,
+    "question": "(0.200 point) Which of the following best describes the relationship between architectural patterns and architectural tactics?",
+    "type": "mcq",
+    "choices": [
+      "Any tactic implements different patterns.",
+      "Patterns and tactics are equivalent.",
+      "A pattern may employ one or more tactics.",
+      "Tactics and patterns are unrelated."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 113,
+    "question": "(0.200 point) Which of the following is not part of describing or determining an architectural pattern? SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "Implementation details",
+      "Interaction mechanisms or connectors",
+      "Semantic constraints",
+      "Element types"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 114,
+    "question": "(0.200 point) The purpose of applying patterns in software architecture is to...",
+    "type": "mcq",
+    "choices": [
+      "build multiple related systems.",
+      "address one or more architectural tactics.",
+      "isolate one or more quality attributes.",
+      "promoteoneormorequalityattributes."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 115,
+    "question": "(0.200 point) The purpose of identifying patterns in a software architecture is to...",
+    "type": "mcq",
+    "choices": [
+      "improve stakeholder communication.",
+      "help predict specific qualities in an architecture.",
+      "enable reuse of legacy systems.",
+      "helpbuildmultipleproductsinaproduct line."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 116,
+    "question": "(0.200 point) A software architecture view is... SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "an opinion regarding software architecture.",
+      "arepresentation ofastructurefoundina softwaresystem.",
+      "a collection of UML diagrams.",
+      "a list of elements in a software system."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 117,
+    "question": "(0.200 point) Documenting a software architecture is best described as a process of... support non-architectural design. more than one view. quality attributes requirements. development and management teams.",
+    "type": "mcq",
+    "choices": [
+      "documenting the structures, elements, and relationships that will best",
+      "documentingrelevantviewsandthenaddinginformationthat applies to",
+      "documenting runtime interactions and behaviors and their impact on",
+      "documentingthemodulestructuresthatwillbestsupport the"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 118,
+    "question": "(0.200 point) Which type of architectural view shows sets of code units?",
+    "type": "mcq",
+    "choices": [
+      "Allocation views",
+      "Module views",
+      "Component-and-connector views",
+      "User action/feedback views"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 119,
+    "question": "(0.200 point) Which type of architectural view shows the runtime interactions of sets of elements? SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "Allocation views",
+      "Module views",
+      "Component-and-connector views",
+      "User action/feedback views"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 120,
+    "question": "(0.200 point) Which type of architectural view shows how software and non-software elements are related within a system?",
+    "type": "mcq",
+    "choices": [
+      "Allocation views",
+      "Module views",
+      "Component-and-connector views",
+      "User action/feedback views"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 121,
+    "question": "(0.200 point) A process view of a system's software architecture would most likely be used to reasonaboutwhichof thefollowingqualityattributepropertiesof thatsystem?",
+    "type": "mcq",
+    "choices": [
+      "Maintainability and buildability",
+      "Performance and reliability",
+      "Security and modifiability",
+      "Reusability and availability"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 122,
+    "question": "(0.200 point) An allocation view of a software architecture shows... SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "runtime behavior and interactions of elements.",
+      "code units that implement functionality.",
+      "user interactions with system elements.",
+      "relationships between software elements to environment elements."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 123,
+    "question": "(0.200 point) Adeploymentviewofasystem'ssoftwarearchitecturewouldmost likelybeused toreasonaboutwhichof thefollowingqualityattributepropertiesof thatsystem?",
+    "type": "mcq",
+    "choices": [
+      "Modifiability and security",
+      "Availability and affordability",
+      "Reusability and reliability",
+      "Interoperabilityandsubsetability"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 124,
+    "question": "(0.200 point) Oneof themost important factorstoconsider whendeciding which views to develop for an architectureis... development. correctness of views. maintenance.",
+    "type": "mcq",
+    "choices": [
+      "what life-cycle model will befollowed during the courseof",
+      "whatnotationandprocesswillbeusedforcreatingandverifying the",
+      "what tools are available for view creation, dissemination, and",
+      "which views will best serve stakeholder needs."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 125,
+    "question": "(0.200 point) Views often include information about all of the following except for... experimentation. SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "a primary presentation, element catalog, and context diagram.",
+      "driving architectural requirements and design rationale.",
+      "results of design-related analysis, prototyping, and",
+      "pseudodescriptionsforkeyalgorithmsanddatabaseschemata."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 126,
+    "question": "(0.200 point) Beyondviews,it isuseful todescribeallof thefollowing whendocumentingan architecture except for... requirements. elements.",
+    "type": "mcq",
+    "choices": [
+      "a system overview and documentation roadmap.",
+      "the major architectural approaches taken and their relationship to key",
+      "the relationship between implementation constructs and architectural",
+      "a mapping between architectural elements and key requirements."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 127,
+    "question": "(0.200 point) One should not proceed with architectural design until...",
+    "type": "mcq",
+    "choices": [
+      "architectural drivers are known with some confidence.",
+      "functional requirementshavebeendocumentedandvalidated.",
+      "quality attribute requirements have been documented and validated.",
+      "design constraints have been documented and validated."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 128,
+    "question": "(0.200 point) Which of the following istrue? architectural design. requirements analysis. architectural design. SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "Non-architecturaldesignshouldbeginonlyafter thecompletion of",
+      "Architecturaldesignshouldnotbeginbeforethecompletionof",
+      "Non-architectural designmaybeginbeforethecompletion of",
+      "Architecturaldesignshouldbeginbeforerequirementsanalysis."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 129,
+    "question": "(0.200 point) Attribute-Driven Design (ADD) is an approach to defining software architecture where decomposition is basedon... cohesion. requirements. coherence.",
+    "type": "mcq",
+    "choices": [
+      "minimizing interactions between architecturally significant elements.",
+      "recursive decomposition of functional partitions to maximize architectural",
+      "applying architectural patterns and tactics to satisfy quality attribute",
+      "compartmentalizing functions and behaviors to maximize architectural"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 130,
+    "question": "(0.200 point) Which of the following is not an input of the ADD method?",
+    "type": "mcq",
+    "choices": [
+      "Quality attribute requirements",
+      "Module decomposition requirements",
+      "Functional requirements",
+      "Design constraints"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 131,
+    "question": "(0.200 point) Whichof thefollowing isleast likely tobeabenefitofarchitectureevaluations? invalidrequirements. architecture to correct problems. SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "Theyprovideinput intowhereanarchitecturecanbeimproved.",
+      "Theyprovideaforumforidentifyinganddiscussingunclear, missing, or",
+      "Theyallowimmediatestakeholder inputabouthowtoredesign an",
+      "They result in improved communications between stakeholders."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 132,
+    "question": "(0.200 point) Which of the following is the least desirable point in the software life cycle to perform an architectureevaluation?",
+    "type": "mcq",
+    "choices": [
+      "When acquiring a system",
+      "When building asystem",
+      "When the system is first released",
+      "When substantial changes are proposed for a system"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 133,
+    "question": "(0.200 point) Which of the following is unlikely to be a cost associated with architecture evaluations?",
+    "type": "mcq",
+    "choices": [
+      "Managing an organization's architecture evaluation capability",
+      "Training the evaluation team",
+      "Excessive communication among stakeholders",
+      "Loss of productivity for senior designers"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 134,
+    "question": "(0.200 point) Architecture evaluation methods generally fall into what two categories? SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "Scenario verification and prototyping techniques",
+      "Questioning and measuring techniques",
+      "Simulation-basedandquestionnaire-basedtechniques",
+      "Checklist and quantitative techniques"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 135,
+    "question": "(0.200 point) In questionnaire-based evaluation techniques...",
+    "type": "mcq",
+    "choices": [
+      "the architect answers a prepared list of questions.",
+      "detailed sets of yes/no questions focus on particular qualities.",
+      "the quality of the design process is measured.",
+      "specific interactions between a system and stakeholder are described."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 136,
+    "question": "(0.200 point) In scenario-based evaluation techniques...",
+    "type": "mcq",
+    "choices": [
+      "the architect answers a prepared list of questions.",
+      "detailed sets of yes/no questions focus on particular qualities.",
+      "the quality of the design process is measured.",
+      "specific interactions between a system and stakeholder are described."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 137,
+    "question": "(0.200 point) In checklist-based evaluation techniques... SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "the architect answers a prepared list of questions.",
+      "detailed sets of yes/no questions focus on particular qualities.",
+      "the quality of the design process is measured.",
+      "specific interactions between a system and stakeholder are described."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 138,
+    "question": "(0.200 point) In an architectural evaluation, the term \"metrics\" means...",
+    "type": "mcq",
+    "choices": [
+      "quantitative and observablemeasuresof anarchitecture.",
+      "numericmeasuresof thequalityof thedesignprocess.",
+      "numericmeasures of thequalityof theevaluationprocess.",
+      "standardized butqualitativemeasuresof an architecture."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 139,
+    "question": "(0.200 point) Which of the following is not a focus of metric-based architecture evaluations?",
+    "type": "mcq",
+    "choices": [
+      "Results of applying metrics.",
+      "Choosing a set of metrics",
+      "Comparing different sets of metrics",
+      "Assumptionsunderlyingthe metrics"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 140,
+    "question": "(0.200 point) Which of the following is not a typical output from an architectural evaluation? SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "Detailed implementation plans",
+      "Enhancedsystemdocumentation",
+      "Setsofscenariosfor futureuse",
+      "Sets of ranked risks or issues"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 141,
+    "question": "(0.200 point) The purpose of the ATAM is to...",
+    "type": "mcq",
+    "choices": [
+      "discover the right architecture for a system.",
+      "assess the consequences of architectural decisions.",
+      "provide precise analyses.",
+      "comparecompetingarchitecturaldesignsforasystem."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 142,
+    "question": "(0.200 point) A quality attribute utilitytree... tradeoffs.",
+    "type": "mcq",
+    "choices": [
+      "facilitates the derivation of quality attribute scenarios from architectural",
+      "measures the utility of proposed design alternatives.",
+      "maps architectural patterns to quality attributes.",
+      "prioritizes a list of quality attribute scenarios."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 143,
+    "question": "(0.200 point) In the context of software architecture evaluations, which of the following best describes \"a risk?\" responses positively while negatively affecting others attribute response measure SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "A potentially problematic architectural decision",
+      "Anarchitectural decisionthataffectsoneormorequality attribute",
+      "An architectural decision that is positively correlated to at least one quality",
+      "A good architectural decision implicit in the architecture"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 144,
+    "question": "(0.200 point) In the context of software architecture evaluations, which of the following best describes \"a tradeoff?\" responses positively while negatively affecting others attribute response measure",
+    "type": "mcq",
+    "choices": [
+      "A potentially problematic architectural decision",
+      "Anarchitectural decisionthataffectsoneormorequality attribute",
+      "An architectural decision that is positively correlated to at least one quality",
+      "A good architectural decision implicit in the architecture"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 145,
+    "question": "(0.200 point) In the context of software architecture evaluations, which of the following best describes \"a sensitivity point?\" responses positively while negatively affecting others attribute response measure SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "A potentially problematic architectural decision",
+      "Anarchitectural decisionthataffectsoneormorequality attribute",
+      "An architectural decision that is positively correlated to at least one quality",
+      "A good architectural decision implicit in the architecture"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 146,
+    "question": "(0.200 point) In the context of software architecture evaluations, which of the following best describes \"a nonrisk?\" responses positively while negatively affecting others attribute response measure",
+    "type": "mcq",
+    "choices": [
+      "A potentially problematic architectural decision",
+      "Anarchitectural decisionthataffectsoneormorequality attribute",
+      "An architectural decision that is positively correlated to at least one quality",
+      "A good architectural decision implicit in the architecture"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 147,
+    "question": "(0.200 point) Which of the following is not characteristic of a software product line? features. of core assets.",
+    "type": "mcq",
+    "choices": [
+      "A software product line comprises a set of similar software systems.",
+      "Productsinasoftwareproduct lineshareacommon,managed set of",
+      "A software product line minimizes constraints on product variation.",
+      "Products in a software product line are developedfrom a common set"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 148,
+    "question": "(0.200 point) Software product line architectures epitomize strategic, planned reuse that might very well include reuse of all of the following except for... SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "architectural designs, code, and test plans.",
+      "requirements, performance models,andnetworkloadanalyses.",
+      "work breakdown structures, project plans, and project schedules.",
+      "user documentation, product-specific features, and development tools."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 149,
+    "question": "(0.200 point) The \"scope\" of a product line architecture refers to... E. none of the above",
+    "type": "mcq",
+    "choices": [
+      "what stakeholders will be involved in defining the product line.",
+      "whichproductsareincludedintheproduct lineand whichare not.",
+      "what markets and users will be targeted by the product line.",
+      "how product variations willimpact thedevelopment schedule."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 150,
+    "question": "(0.200 point) The scope of a product line should be... product line. and to minimize maintenance efforts. able to satisfy. E. none of the above",
+    "type": "mcq",
+    "choices": [
+      "asnarrow aspossibleto maximizethebenefitweget from developing the",
+      "not too narrow and not too broad to justify the investment in development",
+      "asbroadaspossibletomaximizethenumberof stakeholder needs we are",
+      "defined broadly until the first product is released."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 151,
+    "question": "(0.200 point) Variationbetweentwoormoreproductsinasoftwareproduct linemight include differences in... E. none of the above SAPP SEI Exam 2015 www.thomasgalliker.ch",
+    "type": "mcq",
+    "choices": [
+      "functionalandqualityattributerequirements.",
+      "target platforms and product configurations.",
+      "target markets and user interfaces.",
+      "all of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 152,
+    "question": "(0.200 point) Whichof thefollowinganswersisfalse?It isparticularlyimportant toevaluatea product line architecture because... organization. developed separately. for a single product.",
+    "type": "mcq",
+    "choices": [
+      "agoodarchitecturemaybecritical tothesuccessof the",
+      "productsthatdeviatefromthecoreassetbasecanbeidentified and",
+      "many software systems will depend on the architecture.",
+      "theinvestment isgreater thantheinvestment increatingthe architecture"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 153,
+    "question": "(0.200 point) Which of thefollowing answers is false ? It isparticularlyimportant toevaluatea product line architecture because... organization. developed separately. for a single product.",
+    "type": "mcq",
+    "choices": [
+      "agoodarchitecturemaybecritical tothesuccessof the",
+      "productsthatdeviatefromthecoreassetbasecanbeidentified and",
+      "many software systems will depend on the architecture.",
+      "theinvestment isgreater thantheinvestment increatingthe architecture"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 154,
+    "question": "(0.200 point) Which of the following is not true for product lines? members.",
+    "type": "mcq",
+    "choices": [
+      "Tools and processes must be robust.",
+      "Architecture must support variation between skills of development team",
+      "Software components must be designed to be general.",
+      "Architecturemustsupportvariationbetweenproducts."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 155,
+    "question": "(0.200 point) The World Wide Web case study illustrates all of the following except... requirements. environment. requirements.",
+    "type": "mcq",
+    "choices": [
+      "the Architecture Business Cycle in action.",
+      "how technological advances tend to stabilize attribute",
+      "the influence an architecture can have on the technical, business, and social",
+      "how architectural decisions lead to the achievement of quality attribute"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 156,
+    "question": "(0.200 point) Whichof thefollowing factorscontributedtheleast tothesuccessofCelsius Tech's software product line architecture?",
+    "type": "mcq",
+    "choices": [
+      "Domainknowledgeandexperiencewithsimilarsystems",
+      "Building similar systems in parallel",
+      "Coding expertise in command and control systems",
+      "Emphasis on information hiding and encapsulation"
+    ],
+    "answer": 2
+  }
+]

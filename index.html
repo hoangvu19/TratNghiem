@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Luyện Thi - Trắc nghiệm & Trả lời ngắn</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Luyện Thi - Trắc nghiệm & Trả lời ngắn</h1>
+      <p>Chọn chế độ và bắt đầu ôn tập. Dữ liệu mẫu lấy từ attachments (có thể mở rộng).</p>
+      <div class="server-link-box">
+      </div>
+    </header>
+
+    <section class="controls">
+      <label>Chế độ:
+        <select id="mode">
+          <option value="quiz">Luyện trắc nghiệm</option>
+          <option value="short_practice">Luyện trả lời ngắn</option>
+          <option value="answers">Xem đáp án ngắn</option>
+        </select>
+      </label>
+      <label>Số câu / lượt:
+        <input id="num" type="number" min="1" max="100" value="10">
+      </label>
+      <label><input type="checkbox" id="opt-shuffle"> Practice Shuffle</label>
+      <label><input type="checkbox" id="opt-limit"> Limit </label>
+      <label><input type="checkbox" id="opt-text-check"> Text check</label>
+      <!-- AI grading removed -->
+      <button id="start">Bắt đầu</button>
+      <div id="notice" style="margin-top:6px;color:#333;font-size:0.95em"></div>
+    </section>
+    <main id="main">
+      <div id="quiz-area" class="hidden">
+        <div id="q-meta">Câu <span id="q-index">0</span> / <span id="q-total">0</span></div>
+        <div id="question" class="question"></div>
+        <ul id="choices" class="choices"></ul>
+        <div class="actions">
+          <button id="prev">Trước</button>
+          <button id="next">Tiếp</button>
+          <button id="submit">Nộp bài</button>
+        </div>
+      </div>
+
+      <div id="answers-area" class="hidden">
+        <h2>Danh sách câu & đáp án ngắn</h2>
+        <div id="answers-list"></div>
+      </div>
+
+      <div id="result-area" class="hidden">
+        <h2>Kết quả</h2>
+        <div id="score"></div>
+        <button id="restart">Làm lại</button>
+      </div>
+    </main>
+
+    <footer>
+      <small>Files local - mở `index.html` bằng trình duyệt hoặc chạy server tĩnh.</small>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

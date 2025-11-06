@@ -1,0 +1,1131 @@
+1. (2 points)
+What is the primary concern of software architecture?
+A. Ensuring the system works as expected
+*B. Handling long-term design and quality attributes
+C. Meeting coding standards
+D. Handling user interface design
+2. (2 points)
+Which of the following is NOT an architectural structure category?
+*A. UI structures
+B. Module structures
+C. Allocation structures
+D. Component-and-connector structures
+3. (2 points)
+What is the main purpose of a software architecture?
+A. Implementing algorithms
+*B. Reasoning about the system’s structures and qualities
+C. Testing system functionality
+D. Building user interfaces
+4. (2 points)
+What is a module structure?
+A. A runtime structure
+*B. A static structure for organizing system functionality
+C. A view for system execution
+D. An interaction model
+5. (2 points)
+What is a runtime structure in software architecture called?
+A. Module structure
+B. Data flow
+*C. Component-and-connector (C&C) structure
+D. Allocation structure
+6. (2 points)
+What is the definition of software architecture according to the book?
+A. A design methodology
+*B. A set of structures needed to reason about a system
+C. A programming framework
+D. A system prototype
+7. (2 points)
+What is the role of software elements in architecture?
+A. They define system processes
+*B. They represent the system’s behavior and properties
+C. They store system data
+D. They define business logic
+8. (2 points)
+Which structure helps in analyzing system performance?
+*A. Component-and-connector (C&C) structure
+B. Module structure
+C. Allocation structure
+D. Class structure
+9. (2 points)
+What architectural structure relates to system deployment?
+*A. Allocation structure
+B. Component-and-connector structure
+C. Module structure
+D. Data model
+10. (2 points)
+What are connectors in software architecture?
+A. Data storage units
+*B. Interaction links between components
+C. System modules
+D. Hardware drivers
+11. (2 points)
+What is a system architecture concerned with?
+A. Just software design
+*B. A combination of hardware and software components
+C. Only the user interface
+D. Network protocols
+12. (2 points)
+Which type of architecture concerns business processes and organizational goals?
+A. System architecture
+*B. Enterprise architecture
+C. Software architecture
+D. Data architecture
+13. (2 points)
+Which structure provides insight into a system’s concurrency?
+A. Module structure
+*B. Component-and-connector structure
+C. Allocation structure
+D. Layered structure
+14. (2 points)
+What is a “layer” in a layered structure?
+A. A database unit
+*B. A virtual machine providing a set of services
+C. A module of a system
+D. A network protocol
+15. (2 points)
+Which of these patterns is commonly used in component-and-connector structures?
+A. Client-side scripting
+*B. Client-server pattern
+C. Data mining
+D. Object pooling
+16. (2 points)
+What is an example of a dynamic system structure?
+A. Class diagrams
+*B. Service interactions
+C. File directories
+D. Database schemas
+17. (2 points)
+In which scenario is a component-and-connector structure NOT useful?
+A. Defining system services
+*B. Defining code ownership in teams
+C. Analyzing performance
+D. Analyzing system availability
+18. (2 points)
+What defines the relationship between software and hardware elements?
+A. Module view
+B. Class structure
+*C. Allocation structure
+D. Business rules
+19. (2 points)
+What is the key output of object-oriented analysis and design in architecture?
+A. Data model
+*B. Class diagrams
+C. Service components
+D. Deployment model
+20. (2 points)
+What is the role of allocation structures in architecture?
+A. Defining component interactions
+*B. Mapping software elements to external environments
+C. Organizing database structures
+D. Describing user interface elements
+21. (2 points)
+Which structure helps in reasoning about system modifiability?
+A. Data model
+B. Concurrency structure
+*C. Module structure
+D. Deployment structure
+22. (2 points)
+What is an architectural pattern?
+A. A programming language feature
+*B. A solution for recurring design problems
+C. A specific software tool
+D. A testing methodology
+23. (2 points)
+Which pattern describes interoperation between independent services?
+A. Layered pattern
+*B. Shared-data pattern
+C. Allocation pattern
+D. Client-server pattern
+24. (2 points)
+What aspect is NOT part of a software architecture?
+A. Behavior of components
+B. Relationships between components
+*C. Physical layout of the office
+D. Properties of system elements
+25. (2 points)
+What is the purpose of a deployment structure?
+A. To define modules
+*B. To map software components to hardware systems
+C. To store logs
+D. To handle system workflows
+26. (2 points)
+How does architecture influence a system’s development?
+A. By selecting coding standards
+*B. By defining major design decisions that impact the whole system
+C. By determining file structure
+D. By setting system memory limits
+27. (2 points)
+What makes a view different from a structure?
+A. Views are static
+*B. Views represent structures as seen by stakeholders
+C. Structures are abstract
+D. Views are only used in implementation
+28. (2 points)
+What is the architecture business cycle?
+*A. The influence between architecture and the organization that developed it
+B. The process of code optimization
+C. The lifecycle of a software product
+D. The organization’s marketing strategy
+29. (2 points)
+What does a “skeletal system” mean in architecture?
+A. A system without data
+*B. A minimal system that exercises major communication paths
+C. A system that is incomplete
+D. A prototype system
+30. (2 points)
+What is the role of architecture documentation?
+A. To capture code syntax
+*B. To describe the system’s structure and behavior for stakeholders
+C. To store system logs
+D. To define UI layouts
+31. (2 points)
+Which architectural structure is important for assigning responsibilities to development teams?
+*A. Work assignment structure
+B. Module structure
+C. Deployment structure
+D. Component-and-connector structure
+32. (2 points)
+What does a “good” architecture achieve?
+A. High system costs
+*B. Alignment with business goals and quality attributes
+C. Large team sizes
+D. Complex system designs
+33. (2 points)
+Which architectural pattern enforces strict use of layers?
+*A. Layered pattern
+B. Service-oriented pattern
+C. Client-server pattern
+D. Repository pattern
+34. (2 points)
+What is a common quality attribute influenced by architecture?
+A. Budget
+*B. Modifiability
+C. Code formatting
+D. User experience
+35. (2 points)
+Which term refers to communication pathways between runtime components?
+A. Modules
+*B. Connectors
+C. Threads
+D. Data models
+36. (2 points)
+Why is it important to reason about an architecture early in the development process?
+A. To implement user feedback
+*B. To predict system quality attributes
+C. To develop a prototype
+D. To select coding languages
+37. (2 points)
+Which attribute is critical for systems that must operate even when faults occur?
+A. Usability
+*B. Availability
+C. Scalability
+D. Modifiability
+38. (2 points)
+What is a key property of well-defined architectural modules?
+*A. They hide internal complexity and promote separation of concerns
+B. They include all system details
+C. They interact with external systems directly
+D. They contain user interface components
+39. (2 points)
+In which scenario is architecture NOT critical?
+A. Designing a distributed system
+B. Managing system performance
+*C. Creating a basic script or utility tool
+D. Implementing quality attributes
+40. (2 points)
+What is the significance of architectural patterns in system design?
+*A. They provide reusable solutions to common problems
+B. They define system-specific requirements
+C. They organize code
+D. They ensure modularity
+41. (2 points)
+Which structure ensures that changes to the system do not affect unrelated components?
+A. Deployment structure
+*B. Module structure
+C. Concurrency structure
+D. File system structure
+42. (2 points)
+How does a client-server pattern work?
+A. The client manages data while the server processes requests
+*B. Clients request services from servers which provide responses
+C. Clients and servers execute on the same machine
+D. Data is stored on the client side
+43. (2 points)
+What architectural documentation is used to communicate with stakeholders?
+*A. Views
+B. Code diagrams
+C. Performance tests
+D. Security protocols
+44. (2 points)
+Which structure addresses how data is transmitted between components?
+*A. Concurrency structure
+B. Module structure
+C. Deployment structure
+D. Class structure
+45. (2 points)
+What is a scenario in architecture evaluation?
+A. A system error
+*B. A use case to test quality attributes in the architecture
+C. A code deployment method
+D. A debugging process
+46. (2 points)
+Which quality attribute is often prioritized in mission-critical systems?
+A. Usability
+B. Scalability
+*C. Reliability
+D. Modifiability
+47. (2 points)
+What does the term "scalability" refer to in software architecture?
+*A. The system's ability to handle growth in demand or size
+B. The system's ability to operate at maximum performance
+C. The ease of system maintenance
+D. The use of object-oriented patterns
+48. (2 points)
+What does the term "modifiability" refer to in architecture?
+*A. The ease with which the system can be changed or updated
+B. The system's performance under stress
+C. The user interface design
+D. The type of hardware used
+49. (2 points)
+Which structure helps organize how system modules interact at runtime?
+A. Deployment structure
+*B. Component-and-connector structure
+C. Module structure
+D. Data structure
+50. (2 points)
+What is the purpose of an architectural evaluation?
+A. To analyze the system's user interface
+*B. To assess if the architecture can meet quality attribute goals
+C. To create code templates
+D. To prepare for system deployment
+51. (2 points)
+How is system reliability achieved through architecture?
+A. Using modern programming languages
+*B. Through redundancy and fault-tolerant designs
+C. By using cloud infrastructure
+D. By following Agile principles
+52. (2 points)
+What is the primary focus of enterprise architecture?
+A. System component interaction
+*B. Aligning software systems with business goals and processes
+C. Building user interfaces
+D. Optimizing network traffic
+53. (2 points)
+How does software architecture support incremental development?
+A. By prioritizing Agile methods
+*B. Through designing systems to be built and tested in parts
+C. By focusing on hardware resources
+D. By using AI for automation
+54. (2 points)
+What is a non-local change in architecture?
+A. A change to system documentation
+*B. A change that affects multiple elements but does not alter the architecture itself
+C. A minor update in a single module
+D. A complete redesign of the system
+55. (2 points)
+Which structure maps software components to the underlying hardware?
+A. Component structure
+*B. Deployment structure
+C. Data structure
+D. Service structure
+56. (2 points)
+What is the main advantage of using well-documented architecture?
+A. It shortens the development cycle
+*B. It enhances communication between stakeholders and ensures design consistency
+C. It improves system runtime performance
+D. It prevents all system errors
+57. (2 points)
+Which quality attribute focuses on how well a system performs under load?
+*A. Performance
+B. Modifiability
+C. Usability
+D. Maintainability
+58. (2 points)
+Which quality attribute ensures that a system can continue to operate in the event of partial
+failure?
+A. Scalability
+*B. Fault tolerance
+C. Usability
+D. Performance
+59. (2 points)
+What kind of structure is a class diagram?
+A. Component structure
+*B. Module structure
+C. Allocation structure
+D. Deployment structure
+60. (2 points)
+What role does a system architect play in an organization?
+A. Writing code for the system
+*B. Designing the system's structure to meet business and technical goals
+C. Testing the system's performance
+D. Managing the organization's network traffic
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+61. (0.200 point)
+The term 'enterprise architecture' describes ...
+A. software elements of a system.
+B. hardware elements and how they are interconnected.
+*C. business structuresandhowtheyareinterconnected.
+D. both the hardware and software elements of a system.
+62. (0.200 point)
+Enterprise and system architecture...
+A. provideanenvironment inwhichsoftwareoperates.
+B. provide requirements and constraints to which software architecture must
+adhere.
+C. arelikelytobeassociatedwithoneormoresoftware architectures.
+*D. all of the above
+E. none of the above
+63. (0.200 point)
+Which of the following is a concern of software
+architecture?
+*A. Software elements of the system
+B. Human elements of the system
+C. Hardware elements of the system
+D. All of the above
+E. None of the above
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+64. (0.200 point)
+Software architecture is an abstraction of a system
+that...
+*A. suppresses details of what software elements do internally.
+B. shows how software elements will be implemented.
+C. describes the algorithms and data structures used by software elements.
+D. identifiesthepublicandprivateinterfacesofsoftwareelements.
+65. (0.200 point)
+The 'externally visible properties' of a software architecture's elements refers to all of
+the following except...
+A. quality attributes of those elements.
+*B. "as is" design of those elements.
+C. functionsandservicesprovidedbythoseelements.
+D. resourcesprovided and usedby thoseelements.
+66. (0.200 point)
+Which of the following is not true concerning software architecture?
+A. An architecture comprises many different structures.
+*B. Anarchitectureisbestdescribedbyasingle,coherent structure.
+C. An architectural structure might show runtime elements and relationships.
+D. An architectural structure might show non-runtime elements and
+relationships.
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+67. (0.200 point)
+Which of the following is true concerning software
+architecture?
+A. Architecture is concerned primarily with the private details of element
+interfaces.
+B. Anarchitectureiscomposedofafixedsetofcandidate structures.
+*C. Every system has an architecture, explicit or implicit.
+D. Asoftwarearchitectureistheplannedimplementationofa system.
+68. (0.200 point)
+Which of the following cannot be inferred from the description of a software
+architecture's elements?
+A. How many elements a system has
+*B. The design of individual elements
+C. Commonalities between system elements
+D. Relationships between system elements
+69. (0.200 point)
+Which of the following is not true of architectural patterns?
+A. They are often selected to promote various quality attribute properties.
+B. Theyare well-knownsolutionstorecurringdesignproblems.
+*C. They are industry-defined standards for software design.
+D. They are often selected in the early stages of architectural design.
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+70. (0.200 point)
+Which of the following would not be part of a reference model?
+A. Whatmajorfunctionsasystemisexpectedtoperform
+*B. Howsystemfunctionsareallocatedtosoftwareelements
+C. What data flows to,from, and between system functions
+D. Which functions are mandatory and which are optional
+71. (0.200 point)
+Which of the following would not be part of a reference architecture?
+A. Elements of the architecture and their externally visible properties
+B. Relationships between elements and the properties of those elements
+C. Which elements, relationships, and properties are optional in any given
+implementation of the architecture
+*D. How to instantiate the architecture for a particular application
+72. (0.200 point)
+There are three primary reasons why a software
+architecture is important. Which of the following is not
+one of them?
+A. It reveals early design decisions about a system.
+B. It enables communication among stakeholders regarding the system.
+*C. It ensures implementation conformance to a defined specification.
+D. It is a transferable, reusable abstraction of a system.
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+73. (0.200 point)
+Softwarearchitectureprovidesacommonframeof referenceforallof the
+following except...
+A. negotiating requirements with stakeholders.
+B. keeping the customer informed of progress and cost.
+*C. minimizingtheamountof timespentincomponentdesign.
+D. decidinghow tostructurethedevelopmentorganization and allocate
+resources.
+74. (0.200 point)
+Which of the following is least likely to be imposed on the implementation by
+software architecture?
+*A. Test procedures
+B. Process-scheduling priorities
+C. Elements and interactions
+D. Data sharing
+75. (0.200 point)
+Which of the following processes within a development
+organization is not affected by software architecture?
+A. Budgeting and scheduling
+B. Partitioning and assigning work
+*C. Performing user testing
+D. Planning testing and deployment
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+76. (0.200 point)
+Software architecture allows us to predict...
+A. howmuchthesystemwillimpact thetechnologicalenvironment.
+*B. how well quality attributes will be achieved.
+C. how satisfied customers will be with the product.
+D. how often requirements will change.
+77. (0.200 point)
+Architecture helps us to reason about and manage change, because it partitions all
+changes into these three classes of change:
+A. requirements, design, and implementation changes.
+*B. local, nonlocal, and architectural changes.
+C. high-level design, detailed design, and coding changes.
+D. life-cycle, process, and practice changes.
+78. (0.200 point)
+Onceanarchitecture hasbeendefined,itcan beanalyzedandprototypedasa
+skeletal system. Which of the following is not a benefit of this approach?
+A. Elementscanbepluggedintoaskeletalframeworkof the architecture.
+B. Risky elements can be identified and prototyped.
+C. Thesystemisexecutableearlyintheproduct'slifecycle.
+*D. Development can proceed before the architectural mismatches have been
+identified.
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+79. (0.200 point)
+Which of the following is false regarding software architecture?
+A. Software architecture enables more accurate cost and schedule estimates.
+B. Software architecture enables more accurate project planning and tracking.
+*C. Software architecture enables more accurate process
+conformance estimates.
+D. Software architecture enables more accurate predictions of resource usage.
+80. (0.200 point)
+Software architecture can serve as the basis of a strategic reuse agenda that
+includes reuse of all of the following except...
+*A. product-specific functionality and qualities.
+B. work breakdown structures and requirements.
+C. project personnel and experience.
+D. components andstandards.
+81. (0.200 point)
+Architecture-based development...
+*A. focuses on composing elements rather than programming them.
+B. relaxes constraints on which third-party products can be
+incorporated into the system.
+C. avoids implementation standards to promote flexibility.
+D. inhibits component interchangeability.
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+82. (0.200 point)
+Architecture enables template-based development. Which of the following isnot true
+of this type of development?
+A. Templates can be used to localize how elements interact.
+B. Templatescanbeusedtocodeelement interactionframeworks.
+C. Templates speed up development and increase reliability.
+*D. Templates promote standardization but reduce performance.
+83. (0.200 point)
+Which of the following structures is most likely to be of interest in determining how
+modifiable software is in termsof supportinga new hardware platform?
+*A. Uses structure
+B. Shared-datarepositorystructure
+C. Implementation structure
+D. Work assignment structure
+84. (0.200 point)
+Which of the following structures is most likely to be of interest in determining how
+secure a system is from unauthorized external access?
+A. Implementation structure
+*B. Deployment structure
+C. Class/generalization structure
+D. Decomposition structure
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+85. (0.200 point)
+Which of the following structures is most likely to be of interest in determining how
+well a system will perform when faced by simultaneous access by1,000 users?
+A. Layered structure
+*B. Process structure
+C. Work assignment structure
+D. Implementation structure
+86. (0.200 point)
+Architects primarily focus on designing whatever structures will provide them with
+the most leverage in achieving...
+A. the functional requirements of the system.
+B. the operational requirements of the system.
+*C. thequalityattributesrequirementsof thesystem.
+D. all of the above
+E. none of the above
+87. (0.200 point)
+The Architecture Business Cycle best refers to...
+*A. the business, social, and technical influences on an architecture.
+B. the influence of architecture on cost, schedule, and resource allocation.
+C. the cyclic nature of architecture-centric development.
+D. the ideal lifecycle modelfor architecture-based development.
+E. none of the above
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+88. (0.200 point)
+Which of these factors is least likely to influence the design of a software
+architecture?
+A. The architect's background and experience
+B. Thetechnicalenvironment inwhichthesystemisdeveloped
+*C. The way in which the architecture is represented
+D. The structure of the development organization
+89. (0.200 point)
+Why should software architects involve stakeholders early in the life cycle of a
+system?
+A. Toinformstakeholdersof thesystem'spriorities
+B. To limit the real constraints of a system
+*C. To manage stakeholder expectations
+D. To discuss design alternatives
+90. (0.200 point)
+Which of thefollowing might bean organizational influence on software
+architectures?
+A. Available expertise
+B. Organizational structure
+C. Investment in existing assets
+*D. All of the above
+E. None of the above
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+91. (0.200 point)
+The existing technical environment will...
+A. be the most influential cost driver of the system.
+B. bea key factor in minimizing the constraints imposed on a system.
+*C. likely influence the design of an architecture.
+D. have the least impact on the cost of the system.
+92. (0.200 point)
+Thedesignchoicesmadebyasoftwarearchitectmightbeinfluencedbyhisor
+her...
+A. past experience in designing service-oriented architectures.
+B. personal goals and objectives.
+C. education and training.
+*D. all of the above
+E. none of the above
+93. (0.200 point)
+The design of an architecture is least likely to influence...
+A. the formation of development teams.
+B. development, test, and integration activities.
+*C. conformancetoproject trackingandreportingpractices.
+D. resource allocation in schedules and budgets.
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+94. (0.200 point)
+Software architecture does not offer which of the following benefits?
+A. Allowing the company to enter a specific market segment
+*B. Guaranteeing that implementations will conform to the architecture
+specification
+C. Providing a basis for resource allocation and budgeting
+D. Enablingefficientproductionand deploymentof similar systems
+95. (0.200 point)
+Occasionally, a system or architecture will introduce itself into the technical
+environment inawaythatwillimpact thearchitecturaldesignofmanysystemsfor
+theforeseeable future. Allof thefollowing areexamplesof this except for:
+A. The World Wide Web
+*B. C++
+C. Service-oriented architecture
+D. Windows operating system
+96. (0.200 point)
+Understanding the influences described by the Architecture Business Cycle helps the
+architect todomany things.Whichof thefollowing isnotoneof them?
+A. Realizethatsystemrequirementsarenot theonlyinfluenceon
+architectural design
+*B. Determinewhenandhowtheseinfluenceswilloccurduringthe life cycle
+C. Activelylookforandassesstheimpactofsuchinfluencesonthe architecture
+D. Prepareforandmanagetheseinfluencesthroughout thelife cycle
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+97. (0.200 point)
+Which of the following architectural influences can affect customer requirements?
+A. Customers perceive the benefit of existing architectures and want similar
+kinds of architectures for their systems.
+B. Customers will alter their requirements based on the availability of existing
+systems and components.
+C. Customersaskfor featuresthatareavailableonexistingsystems.
+*D. All of the above
+E. None of the above
+98. (0.200 point)
+Which of the following offers the best example of a non-operational description of
+a quality attribute requirement?
+A. Modifiability: "Developers mustbe able to port the software to a Mac within
+six months."
+B. Performance: "The software must outperform competing software by a
+factor of 20."
+*C. Usability: "The system shall be easy for operations personnel to learn and
+use."
+D. Security: "The system shall prevent all unauthorized access to top-secret
+records."
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+99. (0.200 point)
+Which of the following best describes "quality attributes?"
+*A. Propertiesof workproductsorgoodsby whichtheir qualitywill be judged
+by stakeholders
+B. Properties of software systems that drive how systems will be partitioned to
+achieve the desired functionality
+C. Propertiesof workproductsorgoodsthatdeterminetheir
+marketability
+D. Properties of software systems that are well defined by industry standardsand
+usedasabasisfordeterminingwhetherasystemis "fit for purpose"
+100. (0.200 point)
+Quality attributes requirements are derived from...
+*A. stakeholderconcerns.
+B. industry standards.
+C. functional requirements.
+D. architectural structure.
+101. (0.200 point)
+Which of the following is not true concerning quality attributes?
+A. Quality attributes have a significant influence on the architecture of a system.
+B. Architectural decisions are often made to promote various quality attributes.
+*C. Architectureprovidesthefoundationforachievingquality attributes
+andguaranteesthat thosequalitieswillbemetinthefinal implementation of the
+system.
+D. Changesinanarchitecturetopromoteonequalityattributemay have a
+negative impact on other quality attributes.
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+102. (0.200 point)
+Which of the following is not true concerning the functional requirements of a
+system?
+A. We can achieve functional requirements using any architecture.
+B. Functional requirements often have associated quality attribute
+requirements.
+C. We can achieve functional requirements yet fail to meet quality attribute
+requirements.
+*D. Functional requirements have a significant influence on the architecture of a
+system.
+103. (0.200 point)
+Failingtounderstandthequalityattributerequirementsforasystemisoftenthe
+result of...
+A. ignoring industry-standard definitions for those requirements.
+*B. wide variation in the vocabulary used to describe those requirements.
+C. a lack of tool support for recording and tracking those
+requirements.
+D. followingalife-cyclemodel thatdoesnotaccommodatethose
+requirements.
+104. (0.200 point)
+A "quality attribute scenario"is...
+A. the relationship between different qualities of a system.
+B. alistofallqualityattributesrelevanttosomepartofasystem.
+C. a shortdescription ofhowa user willinteract with some partofa system.
+*D. a short description of how a system should respond to some stimulus.
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+105. (0.200 point)
+Which of the following is not part of a quality attribute scenario?
+A. Environment
+B. Response measure
+*C. Evaluation
+D. Stimulus source
+106. (0.200 point)
+The main purpose of developing quality attribute scenarios is to...
+*A. better understand quality attributes requirements.
+B. select architectural patterns.
+C. unveil conflicting stakeholder requirements.
+D. select architectural tactics.
+107. (0.200 point)
+Which of the following statements is true?
+A. A general scenario is an instantiation of a concrete scenario.
+*B. A concrete scenario is an instantiation of a general scenario.
+C. Concrete scenarios are system independent.
+D. Generalscenariosareformedbycombiningconcretescenarios.
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+108. (0.200 point)
+Which of the following statements is not true?
+A. General scenarios can help stakeholders communicate more effectively
+about quality attribute requirements.
+*B. General scenarios are system-specific but domain-independent scenarios.
+C. General scenarios can help stakeholders develop concrete scenarios.
+D. General scenarios can be developed for any quality attribute.
+109. (0.200 point)
+The Quality Attribute Workshop (QAW) engages stakeholders to...
+A. evaluate the design of a system.
+*B. discover thequalityattributerequirementsforasystem.
+C. determine whether a system is "fit for purpose".
+D. propose and select system design alternatives.
+110. (0.200 point)
+The Quality Attribute Workshop (QAW) is best used...
+*A. before architectural design.
+B. during architectural design.
+C. after architectural design but before non-architectural design.
+D. during non-architectural design.
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+111. (0.200 point)
+Which of the following results from the Quality Attribute Workshop (QAW)?
+A. Improved allocation of project resources
+B. Consensusonthenon-architecturaldesignforasystem
+C. Reducedandbettercontrolover stakeholdercommunication
+*D. Increased stakeholder communication
+112. (0.200 point)
+Which of the following best describes the relationship between architectural
+patterns and architectural tactics?
+A. Any tactic implements different patterns.
+B. Patterns and tactics are equivalent.
+*C. A pattern may employ one or more tactics.
+D. Tactics and patterns are unrelated.
+113. (0.200 point)
+Which of the following is not part of describing or determining an architectural
+pattern?
+*A. Implementation details
+B. Interaction mechanisms or connectors
+C. Semantic constraints
+D. Element types
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+114. (0.200 point)
+The purpose of applying patterns in software architecture is to...
+A. build multiple related systems.
+B. address one or more architectural tactics.
+C. isolate one or more quality attributes.
+*D. promoteoneormorequalityattributes.
+115. (0.200 point)
+The purpose of identifying patterns in a software architecture is to...
+A. improve stakeholder communication.
+*B. help predict specific qualities in an architecture.
+C. enable reuse of legacy systems.
+D. helpbuildmultipleproductsinaproduct line.
+116. (0.200 point)
+A software architecture view is...
+A. an opinion regarding software architecture.
+*B. arepresentation ofastructurefoundina softwaresystem.
+C. a collection of UML diagrams.
+D. a list of elements in a software system.
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+117. (0.200 point)
+Documenting a software architecture is best described as a process of...
+A. documenting the structures, elements, and relationships that will best
+support non-architectural design.
+*B. documentingrelevantviewsandthenaddinginformationthat applies to
+more than one view.
+C. documenting runtime interactions and behaviors and their impact on
+quality attributes requirements.
+D. documentingthemodulestructuresthatwillbestsupport the
+development and management teams.
+118. (0.200 point)
+Which type of architectural view shows sets of code units?
+A. Allocation views
+*B. Module views
+C. Component-and-connector views
+D. User action/feedback views
+119. (0.200 point)
+Which type of architectural view shows the runtime interactions of sets of
+elements?
+A. Allocation views
+B. Module views
+*C. Component-and-connector views
+D. User action/feedback views
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+120. (0.200 point)
+Which type of architectural view shows how software and non-software elements
+are related within a system?
+*A. Allocation views
+B. Module views
+C. Component-and-connector views
+D. User action/feedback views
+121. (0.200 point)
+A process view of a system's software architecture would most likely be used to
+reasonaboutwhichof thefollowingqualityattributepropertiesof thatsystem?
+A. Maintainability and buildability
+*B. Performance and reliability
+C. Security and modifiability
+D. Reusability and availability
+122. (0.200 point)
+An allocation view of a software architecture shows...
+A. runtime behavior and interactions of elements.
+B. code units that implement functionality.
+C. user interactions with system elements.
+*D. relationships between software elements to environment elements.
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+123. (0.200 point)
+Adeploymentviewofasystem'ssoftwarearchitecturewouldmost likelybeused
+toreasonaboutwhichof thefollowingqualityattributepropertiesof thatsystem?
+A. Modifiability and security
+*B. Availability and affordability
+C. Reusability and reliability
+D. Interoperabilityandsubsetability
+124. (0.200 point)
+Oneof themost important factorstoconsider whendeciding which views to
+develop for an architectureis...
+A. what life-cycle model will befollowed during the courseof
+development.
+B. whatnotationandprocesswillbeusedforcreatingandverifying the
+correctness of views.
+C. what tools are available for view creation, dissemination, and
+maintenance.
+*D. which views will best serve stakeholder needs.
+125. (0.200 point)
+Views often include information about all of the following except for...
+A. a primary presentation, element catalog, and context diagram.
+B. driving architectural requirements and design rationale.
+C. results of design-related analysis, prototyping, and
+experimentation.
+*D. pseudodescriptionsforkeyalgorithmsanddatabaseschemata.
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+126. (0.200 point)
+Beyondviews,it isuseful todescribeallof thefollowing whendocumentingan
+architecture except for...
+A. a system overview and documentation roadmap.
+B. the major architectural approaches taken and their relationship to key
+requirements.
+*C. the relationship between implementation constructs and architectural
+elements.
+D. a mapping between architectural elements and key requirements.
+127. (0.200 point)
+One should not proceed with architectural design until...
+*A. architectural drivers are known with some confidence.
+B. functional requirementshavebeendocumentedandvalidated.
+C. quality attribute requirements have been documented and validated.
+D. design constraints have been documented and validated.
+128. (0.200 point)
+Which of the following istrue?
+A. Non-architecturaldesignshouldbeginonlyafter thecompletion of
+architectural design.
+B. Architecturaldesignshouldnotbeginbeforethecompletionof
+requirements analysis.
+*C. Non-architectural designmaybeginbeforethecompletion of
+architectural design.
+D. Architecturaldesignshouldbeginbeforerequirementsanalysis.
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+129. (0.200 point)
+Attribute-Driven Design (ADD) is an approach to defining software architecture
+where decomposition is basedon...
+A. minimizing interactions between architecturally significant elements.
+B. recursive decomposition of functional partitions to maximize architectural
+cohesion.
+*C. applying architectural patterns and tactics to satisfy quality attribute
+requirements.
+D. compartmentalizing functions and behaviors to maximize architectural
+coherence.
+130. (0.200 point)
+Which of the following is not an input of the ADD method?
+A. Quality attribute requirements
+*B. Module decomposition requirements
+C. Functional requirements
+D. Design constraints
+131. (0.200 point)
+Whichof thefollowing isleast likely tobeabenefitofarchitectureevaluations?
+A. Theyprovideinput intowhereanarchitecturecanbeimproved.
+B. Theyprovideaforumforidentifyinganddiscussingunclear, missing, or
+invalidrequirements.
+*C. Theyallowimmediatestakeholder inputabouthowtoredesign an
+architecture to correct problems.
+D. They result in improved communications between stakeholders.
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+132. (0.200 point)
+Which of the following is the least desirable point in the software life cycle to
+perform an architectureevaluation?
+A. When acquiring a system
+B. When building asystem
+*C. When the system is first released
+D. When substantial changes are proposed for a system
+133. (0.200 point)
+Which of the following is unlikely to be a cost associated with architecture
+evaluations?
+A. Managing an organization's architecture evaluation capability
+B. Training the evaluation team
+*C. Excessive communication among stakeholders
+D. Loss of productivity for senior designers
+134. (0.200 point)
+Architecture evaluation methods generally fall into what two categories?
+A. Scenario verification and prototyping techniques
+*B. Questioning and measuring techniques
+C. Simulation-basedandquestionnaire-basedtechniques
+D. Checklist and quantitative techniques
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+135. (0.200 point)
+In questionnaire-based evaluation techniques...
+*A. the architect answers a prepared list of questions.
+B. detailed sets of yes/no questions focus on particular qualities.
+C. the quality of the design process is measured.
+D. specific interactions between a system and stakeholder are described.
+136. (0.200 point)
+In scenario-based evaluation techniques...
+A. the architect answers a prepared list of questions.
+B. detailed sets of yes/no questions focus on particular qualities.
+C. the quality of the design process is measured.
+*D. specific interactions between a system and stakeholder are described.
+137. (0.200 point)
+In checklist-based evaluation techniques...
+A. the architect answers a prepared list of questions.
+*B. detailed sets of yes/no questions focus on particular qualities.
+C. the quality of the design process is measured.
+D. specific interactions between a system and stakeholder are described.
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+138. (0.200 point)
+In an architectural evaluation, the term "metrics" means...
+*A. quantitative and observablemeasuresof anarchitecture.
+B. numericmeasuresof thequalityof thedesignprocess.
+C. numericmeasures of thequalityof theevaluationprocess.
+D. standardized butqualitativemeasuresof an architecture.
+139. (0.200 point)
+Which of the following is not a focus of metric-based architecture evaluations?
+A. Results of applying metrics.
+B. Choosing a set of metrics
+*C. Comparing different sets of metrics
+D. Assumptionsunderlyingthe metrics
+140. (0.200 point)
+Which of the following is not a typical output from an architectural evaluation?
+*A. Detailed implementation plans
+B. Enhancedsystemdocumentation
+C. Setsofscenariosfor futureuse
+D. Sets of ranked risks or issues
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+141. (0.200 point)
+The purpose of the ATAM is to...
+A. discover the right architecture for a system.
+*B. assess the consequences of architectural decisions.
+C. provide precise analyses.
+D. comparecompetingarchitecturaldesignsforasystem.
+142. (0.200 point)
+A quality attribute utilitytree...
+A. facilitates the derivation of quality attribute scenarios from architectural
+tradeoffs.
+B. measures the utility of proposed design alternatives.
+C. maps architectural patterns to quality attributes.
+*D. prioritizes a list of quality attribute scenarios.
+143. (0.200 point)
+In the context of software architecture evaluations, which of the following best
+describes "a risk?"
+*A. A potentially problematic architectural decision
+B. Anarchitectural decisionthataffectsoneormorequality attribute
+responses positively while negatively affecting others
+C. An architectural decision that is positively correlated to at least one quality
+attribute response measure
+D. A good architectural decision implicit in the architecture
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+144. (0.200 point)
+In the context of software architecture evaluations, which of the following best
+describes "a tradeoff?"
+A. A potentially problematic architectural decision
+*B. Anarchitectural decisionthataffectsoneormorequality attribute
+responses positively while negatively affecting others
+C. An architectural decision that is positively correlated to at least one quality
+attribute response measure
+D. A good architectural decision implicit in the architecture
+145. (0.200 point)
+In the context of software architecture evaluations, which of the following best
+describes "a sensitivity point?"
+A. A potentially problematic architectural decision
+B. Anarchitectural decisionthataffectsoneormorequality attribute
+responses positively while negatively affecting others
+*C. An architectural decision that is positively correlated to at least one quality
+attribute response measure
+D. A good architectural decision implicit in the architecture
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+146. (0.200 point)
+In the context of software architecture evaluations, which of the following best
+describes "a nonrisk?"
+A. A potentially problematic architectural decision
+B. Anarchitectural decisionthataffectsoneormorequality attribute
+responses positively while negatively affecting others
+C. An architectural decision that is positively correlated to at least one quality
+attribute response measure
+*D. A good architectural decision implicit in the architecture
+147. (0.200 point)
+Which of the following is not characteristic of a software product line?
+A. A software product line comprises a set of similar software systems.
+B. Productsinasoftwareproduct lineshareacommon,managed set of
+features.
+*C. A software product line minimizes constraints on product variation.
+D. Products in a software product line are developedfrom a common set
+of core assets.
+148. (0.200 point)
+Software product line architectures epitomize strategic, planned reuse that might
+very well include reuse of all of the following except for...
+A. architectural designs, code, and test plans.
+B. requirements, performance models,andnetworkloadanalyses.
+C. work breakdown structures, project plans, and project schedules.
+*D. user documentation, product-specific features, and development tools.
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+149. (0.200 point)
+The "scope" of a product line architecture refers to...
+A. what stakeholders will be involved in defining the product line.
+*B. whichproductsareincludedintheproduct lineand whichare not.
+C. what markets and users will be targeted by the product line.
+D. how product variations willimpact thedevelopment schedule.
+E. none of the above
+150. (0.200 point)
+The scope of a product line should be...
+A. asnarrow aspossibleto maximizethebenefitweget from developing the
+product line.
+*B. not too narrow and not too broad to justify the investment in development
+and to minimize maintenance efforts.
+C. asbroadaspossibletomaximizethenumberof stakeholder needs we are
+able to satisfy.
+D. defined broadly until the first product is released.
+E. none of the above
+151. (0.200 point)
+Variationbetweentwoormoreproductsinasoftwareproduct linemight include
+differences in...
+A. functionalandqualityattributerequirements.
+B. target platforms and product configurations.
+C. target markets and user interfaces.
+*D. all of the above
+E. none of the above
+SAPP SEI Exam 2015
+www.thomasgalliker.ch
+152. (0.200 point)
+Whichof thefollowinganswersisfalse?It isparticularlyimportant toevaluatea
+product line architecture because...
+A. agoodarchitecturemaybecritical tothesuccessof the
+organization.
+*B. productsthatdeviatefromthecoreassetbasecanbeidentified and
+developed separately.
+C. many software systems will depend on the architecture.
+D. theinvestment isgreater thantheinvestment increatingthe architecture
+for a single product.
+153. (0.200 point)
+Which of thefollowing answers is false ? It isparticularlyimportant toevaluatea
+product line architecture because...
+A. agoodarchitecturemaybecritical tothesuccessof the
+organization.
+*B. productsthatdeviatefromthecoreassetbasecanbeidentified and
+developed separately.
+C. many software systems will depend on the architecture.
+D. theinvestment isgreater thantheinvestment increatingthe architecture
+for a single product.
+154. (0.200 point)
+Which of the following is not true for product lines?
+A. Tools and processes must be robust.
+*B. Architecture must support variation between skills of development team
+members.
+C. Software components must be designed to be general.
+D. Architecturemustsupportvariationbetweenproducts.
+155. (0.200 point)
+The World Wide Web case study illustrates all of the following except...
+A. the Architecture Business Cycle in action.
+*B. how technological advances tend to stabilize attribute
+requirements.
+C. the influence an architecture can have on the technical, business, and social
+environment.
+D. how architectural decisions lead to the achievement of quality attribute
+requirements.
+
+156. (0.200 point)
+Whichof thefollowing factorscontributedtheleast tothesuccessofCelsius
+Tech's software product line architecture?
+A. Domainknowledgeandexperiencewithsimilarsystems
+B. Building similar systems in parallel
+*C. Coding expertise in command and control systems
+D. Emphasis on information hiding and encapsulation
